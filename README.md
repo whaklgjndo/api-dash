@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="API Dash" width="160"></p>
+
 # API Dash
 
 A Windows app that runs betting dashboards for **stake.us**, **stake.com** and
