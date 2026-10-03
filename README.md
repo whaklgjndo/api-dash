@@ -2,62 +2,27 @@
 
 # API Dash
 
-A Windows app that runs betting dashboards for **stake.us**, **stake.com** and
-**nuts.gg**. It places bets far faster than you can click, and stops exactly
-where you tell it to.
+Betting dashboards for **stake.us**, **stake.com** and **nuts.gg**, on Windows,
+Android and iPhone.
 
-### [Download the latest version →](../../releases/latest)
+## The site: [apidash-licences.apidash.workers.dev](https://apidash-licences.apidash.workers.dev)
 
-One file, `ApiDash.exe`, about 134 MB. Nothing to install.
+Everything lives there: what API Dash does, prices, the store, and each
+device's download with its setup steps.
 
----
+| | Setup steps | Straight download |
+|---|---|---|
+| **Windows** | [Windows page](https://apidash-licences.apidash.workers.dev/windows) | [ApiDash.exe](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.exe) |
+| **Android** | [Android page](https://apidash-licences.apidash.workers.dev/android) | [ApiDash.apk](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.apk) |
+| **iPhone** | [iPhone page](https://apidash-licences.apidash.workers.dev/iphone) | [apidash-loader.user.js](https://github.com/whaklgjndo/api-dash/releases/latest/download/apidash-loader.user.js) |
 
-## You need a key
+**[Buy a key or add time →](https://apidash-licences.apidash.workers.dev/buy)**
 
-The app is licensed per person. Ask for one and you will get a key that looks
-like `SD-XXXXX-XXXXX-XXXXX-XXXXX`, along with how long it lasts and which sites
-it covers.
+A key costs $10 once and never runs out. Time is added per site, from 24 to 720
+hours, paid in USDC on Solana from a wallet app.
 
-> **Contact:** _add your contact here before sharing this page_
-
-A key is claimed by the first machine that uses it and is tied to that machine
-afterwards. Moving to a new PC is fine — ask and it will be unbound.
-
-## First run, in order
-
-1. **Windows will say "Windows protected your PC."** The app is not
-   code-signed, so Windows does not recognise it. Click **More info**, then
-   **Run anyway**. If that sentence bothers you, do not run it — that is a
-   reasonable thing to decide.
-2. Paste your key.
-3. Open a site and **log in inside the app**. It keeps its own browser and its
-   own login; your normal browser's session is not used and not read.
-4. The dashboard appears as a small button in the corner. Click it.
-
-On the very first open you get a short walkthrough. You can bring it back any
-time with the **?** button in the panel header.
-
-## What it does
-
-- **Every game takes conditions**, not just dice — mines, plinko, keno, tower,
-  limbo, roulette, and the rest.
-- **Conditions**: when a streak, a profit level, a multiplier or a bet count
-  happens, change the stake, change the game's settings, switch sides, or stop.
-  Give one a colour and a sound and you can see and hear which rule owned a bet.
-- **Stops**: max loss, max bets, drawdown, take profit, target balance,
-  minimum balance.
-- **Simulated mode** plays the real games against a fake balance and sends
-  nothing to the site. Use it first.
-- A bet log, live statistics and an equity graph for every run.
-
-## Requirements
-
-- Windows 10 or 11, 64-bit.
-- The WebView2 runtime, which is already part of Windows 11 and most Windows 10
-  installs. If the app will not start, install Microsoft's
-  **Evergreen WebView2 Runtime** and try again.
-- **stake.us needs a VPN in some regions.** It has to be a *system* VPN — the
-  app has its own browser and cannot see your browser's VPN extension.
+The files are on this repository's [latest release](../../releases/latest),
+where each version's notes say what changed.
 
 ## Read this before you use it
 
@@ -77,5 +42,5 @@ time with the **?** button in the panel header.
 
 ---
 
-All rights reserved. The dashboards themselves are not distributed here — the
-app fetches them at run time against your key.
+All rights reserved. The dashboards themselves are not distributed here — every
+version fetches them at run time against your key.
