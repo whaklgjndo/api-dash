@@ -5,21 +5,21 @@
 Betting dashboards for **stake.us**, **stake.com** and **nuts.gg**, on Windows,
 Android and iPhone.
 
-## The site: [apidash-licences.apidash.workers.dev](https://apidash-licences.apidash.workers.dev)
+## The site: [API Dash on Gambling Tools](https://whaklgjndo.github.io/gambling-tools-site/api-dash/)
 
 Everything lives there: what API Dash does, prices, the store, and each
 device's download with its setup steps.
 
 | | Setup steps | Straight download |
 |---|---|---|
-| **Windows** | [Windows page](https://apidash-licences.apidash.workers.dev/windows) | [ApiDash.exe](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.exe) |
-| **Android** | [Android page](https://apidash-licences.apidash.workers.dev/android) | [ApiDash.apk](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.apk) |
-| **iPhone** | [iPhone page](https://apidash-licences.apidash.workers.dev/iphone) | [apidash-loader.user.js](https://github.com/whaklgjndo/api-dash/releases/latest/download/apidash-loader.user.js) |
+| **Windows** | [Windows page](https://whaklgjndo.github.io/gambling-tools-site/api-dash/windows.html) | [ApiDash.exe](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.exe) |
+| **Android** | [Android page](https://whaklgjndo.github.io/gambling-tools-site/api-dash/android.html) | [ApiDash.apk](https://github.com/whaklgjndo/api-dash/releases/latest/download/ApiDash.apk) |
+| **iPhone** | [iPhone page](https://whaklgjndo.github.io/gambling-tools-site/api-dash/iphone.html) | [apidash-loader.user.js](https://github.com/whaklgjndo/api-dash/releases/latest/download/apidash-loader.user.js) |
 
 **[Buy a key or add time →](https://apidash-licences.apidash.workers.dev/buy)**
 
 A key costs $10 once and never runs out. Time is added per site, from 24 to 720
-hours, paid in USDC on Solana from a wallet app.
+hours, paid in USDC or SOL on Solana from a wallet app.
 
 The files are on this repository's [latest release](../../releases/latest),
 where each version's notes say what changed.
